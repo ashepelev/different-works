@@ -1,0 +1,45 @@
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.exe
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.pdb
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form1.resources
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Properties.Resources.resources
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.csproj.GenerateResource.Cache
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.exe
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.pdb
+C:\My Documents\Visual Studio 2008\Projects\Graphics_Task4-5\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form2.resources
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.exe
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.pdb
+C:\Temp\Browsers\Backup\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.exe
+C:\Temp\Browsers\Backup\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.pdb
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form1.resources
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form2.resources
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Properties.Resources.resources
+C:\Temp\Browsers\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.csproj.GenerateResource.Cache
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.exe
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.pdb
+J:\Новая папка (2)\Backup\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.exe
+J:\Новая папка (2)\Backup\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.pdb
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\ResolveAssemblyReference.cache
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form1.resources
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form2.resources
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Properties.Resources.resources
+J:\Новая папка (2)\Backup\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.csproj.GenerateResource.Cache
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.exe
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.pdb
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.exe
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.pdb
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\ResolveAssemblyReference.cache
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form1.resources
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form2.resources
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Properties.Resources.resources
+J:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.csproj.GenerateResource.Cache
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.exe
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.pdb
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.exe
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\bin\Debug\Graphics_Task4-5.pdb
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form1.resources
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Form2.resources
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4_5.Properties.Resources.resources
+G:\Programming\Computer Graphics\3D\Graphics_Task4-5\obj\Debug\Graphics_Task4-5.csproj.GenerateResource.Cache

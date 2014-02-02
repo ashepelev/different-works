@@ -1,0 +1,40 @@
+D:\work\rgb-hsl\rgb-hsl\obj\Debug\ResolveAssemblyReference.cache
+D:\work\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Form1.resources
+D:\work\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Properties.Resources.resources
+D:\work\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.csproj.GenerateResource.Cache
+D:\work\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.exe
+D:\work\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.pdb
+D:\work\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.exe
+D:\work\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.pdb
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.exe
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.pdb
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Form1.resources
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Properties.Resources.resources
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.csproj.GenerateResource.Cache
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.exe
+C:\Users\Oliver Tod\Documents\Visual Studio 2008\Projects\rgb-hsl\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.pdb
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.exe
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.pdb
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.exe
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.pdb
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\ResolveAssemblyReference.cache
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Form1.resources
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Properties.Resources.resources
+J:\Новая папка\Новая папка\Projects\Projects\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.csproj.GenerateResource.Cache
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.pdb
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.exe
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.pdb
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\ResolveAssemblyReference.cache
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Form1.resources
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Properties.Resources.resources
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.csproj.GenerateResource.Cache
+J:\Programming\Computer Graphics\rgb-hsl\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.exe
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.exe
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.pdb
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\obj\Debug\ResolveAssemblyReference.cache
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Form1.resources
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\obj\Debug\rgb_hsl.Properties.Resources.resources
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\obj\Debug\rgb-hsl.csproj.GenerateResource.Cache
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.exe
+J:\Programming\Computer Graphics\rgb-hsl(2008)\rgb-hsl\rgb-hsl\bin\Debug\rgb-hsl.pdb

@@ -1,0 +1,9 @@
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\bin\Debug\Network.exe.config
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\bin\Debug\Network.exe
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\bin\Debug\Network.pdb
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\obj\Debug\Network.Form1.resources
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\obj\Debug\Network.Properties.Resources.resources
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\obj\Debug\Network.csproj.GenerateResource.Cache
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\obj\Debug\Network.exe
+C:\Users\ash\Documents\Visual Studio 2012\Network\Network\obj\Debug\Network.pdb

@@ -1,0 +1,26 @@
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\obj\Debug\Bezier.Form1.resources
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\My Documents\Visual Studio 2008\Projects\Bezier\Bezier\obj\Debug\Bezier.pdb
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\obj\Debug\Bezier.pdb
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\obj\Debug\Bezier.Form1.resources
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\Users\Oliver Tod\Downloads\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\Temp\Browsers\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Temp\Browsers\Bezier\Bezier\obj\Debug\Bezier.pdb
+C:\Temp\Browsers\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\Temp\Browsers\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\Temp\Browsers\Bezier\Bezier\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Browsers\Bezier\Bezier\obj\Debug\Bezier.Form1.resources
+C:\Temp\Browsers\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+C:\Temp\Browsers\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+J:\Programming\Computer Graphics\Bezier\Bezier\obj\Debug\Bezier.exe
+J:\Programming\Computer Graphics\Bezier\Bezier\obj\Debug\Bezier.pdb
