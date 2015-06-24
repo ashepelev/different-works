@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1396639603 source:c:\users\artem\documents\codeblocks\parallel-task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"mpi.h"
+
+1314874358 c:\users\artem\documents\codeblocks\parallel-task1\mpi.h
+	"mpio.h"
+	"mpicxx.h"
+
+1314874358 c:\users\artem\documents\codeblocks\parallel-task1\mpio.h
+	"mpi.h"
+
