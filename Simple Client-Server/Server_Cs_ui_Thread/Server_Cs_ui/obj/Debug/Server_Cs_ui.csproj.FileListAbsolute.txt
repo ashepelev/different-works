@@ -1,0 +1,11 @@
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\bin\Debug\Server_Cs_ui.exe
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\bin\Debug\Server_Cs_ui.pdb
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\Server_Cs_ui.Form1.resources
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\Server_Cs_ui.Properties.Resources.resources
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\ResGen.read.1.tlog
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\ResGen.write.1.tlog
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\Server_Cs_ui.exe
+G:\Programming\Computer Networks\Lab10\examples\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\Server_Cs_ui.pdb
+G:\Programming\Computer Networks\Lab10\Lab10_Shepelev\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\Server_Cs_ui.exe
+G:\Programming\Computer Networks\Lab10\Lab10_Shepelev\Server_Cs_ui_Thread\Server_Cs_ui\obj\Debug\Server_Cs_ui.pdb
